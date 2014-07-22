@@ -3,7 +3,7 @@ Website for /sys/tur
 
 ### How do I get set up? ###
 
-1. Clone project to a desirable location: `git clone git@bitbucket.org:awesomewebsite/prwebsite.git`
+1. Clone project to a desirable location: `git clone git@github.com:systur-PR/awesomewebsite.git`
 
 2. Nodejs should be installed on your system see [here](http://nodejs.org/download/)
 
