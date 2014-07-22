@@ -13,7 +13,7 @@ Website for /sys/tur
 	2. Install karma globally:
 		* `npm install -g karma`
 	3. Next:
-		* `cd prwebsite`
+		* `cd awesomewebsite`
 		* `bower install` will run the bower.json file
 		* `npm install` will run the package.json file
 
