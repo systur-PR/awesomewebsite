@@ -1,0 +1,29 @@
+{
+  "name": "systur",
+  "version": "0.0.1",
+  "homepage": "https://github.com/systur-PR/awesomewebsite",
+  "authors": [
+    "Magga Sesselja",
+    "Anna Laufey",
+    "Hulda",
+    "Kristin Laufey",
+    "Svanhildur",
+    "Asrun",
+    "Sandra Ros"
+  ],
+  "description": "Official website of systur created by themselves",
+  "license": "SYSTUR",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.20",
+    "angular-route": "~1.2.20",
+    "bootstrap": "~3.2.0",
+    "jquery": "~2.1.1"
+  }
+}

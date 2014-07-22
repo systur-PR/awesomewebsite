@@ -1,0 +1,40 @@
+{
+  "name": "systur",
+  "version": "0.0.1",
+  "description": "Systur official website made by themselves",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/systur-PR/awesomewebsite.git"
+  },
+  "author": "Magga Sesselja, Anna Laufey, Hulda, Kristin Laufey, Svanhildur, Asrun and Sandra Ros",
+  "license": "SYSTUR",
+  "bugs": {
+    "url": "https://github.com/systur-PR/awesomewebsite/issues"
+  },
+  "homepage": "https://github.com/systur-PR/awesomewebsite",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-connect": "^0.8.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-less": "^0.11.3",
+    "grunt-contrib-uglify": "^0.5.0",
+    "grunt-karma": "^0.8.3",
+    "karma": "^0.12.17",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-coverage": "^0.2.4",
+    "karma-firefox-launcher": "^0.1.3",
+    "karma-ie-launcher": "^0.1.5",
+    "karma-jasmine": "^0.1.5",
+    "karma-opera-launcher": "^0.1.0",
+    "karma-safari-launcher": "^0.1.1"
+  }
+}
